@@ -1,2 +1,4 @@
 # hello-world
-Just another thing to do
+Hello Humans,
+
+Starting coding...wohooo...! Very exciting.
